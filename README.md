@@ -1,1 +1,3 @@
 # Scrapping.Hadoop
+````REQUISITOS````
+  
